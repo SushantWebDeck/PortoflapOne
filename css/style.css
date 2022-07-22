@@ -315,3 +315,10 @@ footer .footer-links a:hover {
    clear: both;
    margin: 0;
 }
+.logoCss {
+   background: #e93b81;
+   color: #ffffff;
+   padding: 4px 10px;
+   margin-left: 8px;
+   font-size: 22px;
+}
